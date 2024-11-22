@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/InnoSphere/static/css/main.094f61b9.css",
+    "main.js": "/InnoSphere/static/js/main.9710674d.js",
+    "static/media/man-holding-clock-time-management-concept.png": "/InnoSphere/static/media/man-holding-clock-time-management-concept.753bf47b7ebbf89f5e82.png",
+    "static/media/aaa.png": "/InnoSphere/static/media/aaa.472dc476e8d5343dd213.png",
+    "static/media/appointment-booking-calendar-design.png": "/InnoSphere/static/media/appointment-booking-calendar-design.49db2fef8d30831eba22.png",
+    "static/media/benefits.png": "/InnoSphere/static/media/benefits.84916cc013f9ac953c20.png",
+    "static/media/show1.png": "/InnoSphere/static/media/show1.c73cf4a30329826f94fc.png",
+    "static/media/image.png": "/InnoSphere/static/media/image.3244fdef7504971afe27.png",
+    "static/media/6195525_3156619.svg": "/InnoSphere/static/media/6195525_3156619.23b59a2102d2565f9fa0.svg",
+    "static/media/pngwing.com.png": "/InnoSphere/static/media/pngwing.com.f056c25038f537e7f48f.png",
+    "index.html": "/InnoSphere/index.html",
+    "main.094f61b9.css.map": "/InnoSphere/static/css/main.094f61b9.css.map",
+    "main.9710674d.js.map": "/InnoSphere/static/js/main.9710674d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.094f61b9.css",
+    "static/js/main.9710674d.js"
+  ]
+}
